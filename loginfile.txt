@@ -1,0 +1,6 @@
+Hi Login Team, You need to work on the New Login feature. Please take note of the following changes;
+
+Login Username should be at least 8 alhpa-numeric characters
+Password should be their Persoanl Access Tokens not the regular passwords.
+
+Lets work to implement this new change while we implement this into the app.
